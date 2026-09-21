@@ -120,6 +120,22 @@ Custom chat modes are specialized AI assistants that extend GitHub Copilot's cap
 
 ### Notable Artifacts
 
+- **Claude Code Assisted Software Development: 3-Day Course Outline** ([`outlines/claude-code-assisted-software-development-3-day.md`](outlines/claude-code-assisted-software-development-3-day.md))
+  - Detailed instructor-led course outline covering collaboration, implementation, validation, team workflows, and a PR-ready capstone
+  - Provenance: [Chat log](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/conversation.md) | [Summary](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/summary.md)
+
+- **Claude Code Assisted Software Development: 5-Day Course Outline** ([`outlines/claude-code-assisted-software-development-5-day.md`](outlines/claude-code-assisted-software-development-5-day.md))
+  - Detailed five-day course outline that labels every module as the same as, expanded from, or new relative to the three-day course
+  - Provenance: [Chat log](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/conversation.md) | [Summary](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/summary.md)
+
+- **Claude Code Assisted Software Development: 3-Day Course Outline (4 Hours Per Day)** ([`outlines/claude-code-assisted-software-development-3-day-4-hour.md`](outlines/claude-code-assisted-software-development-3-day-4-hour.md))
+  - Condensed three-day offering with four instructional hours per day and preserved core learning outcomes
+  - Provenance: [Chat log](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/conversation.md) | [Summary](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/summary.md)
+
+- **Claude Code Assisted Software Development: 5-Day Course Outline (4 Hours Per Day)** ([`outlines/claude-code-assisted-software-development-5-day-4-hour.md`](outlines/claude-code-assisted-software-development-5-day-4-hour.md))
+  - Condensed five-day offering with four instructional hours per day and explicit same, expanded, moved, new, and removed-topic notation
+  - Provenance: [Chat log](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/conversation.md) | [Summary](ai-logs/2026/09/17/7fd55dfd-5561-48eb-a1a4-304482ce4a13/summary.md)
+
 - **AI-Assisted MFC to WPF Conversions Slides** ([`slides/marp/ai-assisted-mfc-to-wpf-conversions.deck.md`](slides/marp/ai-assisted-mfc-to-wpf-conversions.deck.md))
   - Marp slide deck for planning and executing MFC-to-WPF migration using AI-assisted workflows
   - Covers both whole-application conversion and module-by-module migration patterns
@@ -134,7 +150,7 @@ Custom chat modes are specialized AI assistants that extend GitHub Copilot's cap
 - **VTT Content Summarizer Promptfile** ([`.github/prompts/summarize-vti-content.prompt.md`](.github/prompts/summarize-vti-content.prompt.md))
   - Analyzes VTT (Video Text Track) files from class recordings and generates structured summaries
   - Extracts timing information, section breakdowns, key topics, and action items
-  - Includes sample files: [VTT input](past-class-recordings/2026-02/AI-Assisted%20Software%20Development%20with%20GitHub%20Copilot%20(Mon%20Afternoon).vtt) | [Generated summary](past-class-recordings/2026-02/AI-Assisted%20Software%20Development%20with%20GitHub%20Copilot%20(Mon%20Afternoon)-summary.md)
+  - Includes sample files: [VTT input](<past-class-recordings/2026-02/AI-Assisted%20Software%20Development%20with%20GitHub%20Copilot%20(Mon%20Afternoon).vtt>) | [Generated summary](<past-class-recordings/2026-02/AI-Assisted%20Software%20Development%20with%20GitHub%20Copilot%20(Mon%20Afternoon)-summary.md>)
   - Documentation: [Usage Guide](past-class-recordings/USAGE.md) | [Live Demo](past-class-recordings/DEMO.md)
   - Provenance: [Chat log](ai-logs/2026/02/17/create-vtt-summarizer-20260217/conversation.md)
 
