@@ -192,6 +192,11 @@ Custom chat modes are specialized AI assistants that extend GitHub Copilot's cap
   - Sourced from `.github/instructions/cqrs-architecture.instructions.md`
   - Provenance: [Chat log](ai-logs/2026/03/18/merge-marp-decks-20260318/conversation.md)
 
+- **AI-Assisted Software Architecture Slides** ([`slides/marp/ai-assisted-software-architecture.deck.md`](slides/marp/ai-assisted-software-architecture.deck.md))
+  - 13-slide Marp deck on AI's role across the architecture lifecycle: ADRs, tradeoff analysis, vertical slices, CQRS/event-driven patterns, diagram generation, governance, risks, and a practical requirements-to-architecture workflow
+  - Includes a best practices checklist and comprehensive speaker notes on every slide
+  - Provenance: [Chat log](ai-logs/2026/09/25/ai-assisted-software-architecture-20260925/conversation.md) | [Summary](ai-logs/2026/09/25/ai-assisted-software-architecture-20260925/summary.md)
+
 - **Dependency Management Policy Slides** ([`slides/marp/dependency-management-policy.deck.md`](slides/marp/dependency-management-policy.deck.md))
   - 12-slide Marp deck on risk classification, selection criteria, approval workflow, vulnerability SLAs, license compliance, and supply chain security
   - Sourced from `.github/instructions/dependency-management-policy.instructions.md`
